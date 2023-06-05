@@ -1,0 +1,4 @@
+# FastAPI
+requests==2.31.0
+Django==4.2.1
+
